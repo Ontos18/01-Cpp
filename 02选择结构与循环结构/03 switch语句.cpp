@@ -2,10 +2,10 @@
 /*语法：
 * switch (变量名)
 * {
-* case 变量:
+* case 变量: <指定的变量>
 *	cout;
 *	break;
-* default 变量:
+* default 变量: <除此之外的变量>
 *	cout;
 *	break;
 * }
