@@ -134,7 +134,7 @@
     <ClCompile Include="04 关键字和标识符命名规律.cpp" />
     <ClCompile Include="06 sizeof关键字.cpp" />
     <ClCompile Include="05 数据类型 整型.cpp" />
-    <ClCompile Include="07 数据类型 实型\07 数据类型 浮点型.cpp" />
+    <ClCompile Include="07 数据类型 浮点型.cpp" />
     <ClCompile Include="08 数据类型 字符型.cpp" />
     <ClCompile Include="09 转义字符.cpp" />
     <ClCompile Include="10 数据类型 字符串型.cpp" />

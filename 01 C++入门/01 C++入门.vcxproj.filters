@@ -33,9 +33,6 @@
     <ClCompile Include="06 sizeof关键字.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="07 数据类型 实型\07 数据类型 浮点型.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="08 数据类型 字符型.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -61,6 +58,9 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="16 逻辑运算符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="07 数据类型 浮点型.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
