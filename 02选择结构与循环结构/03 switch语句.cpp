@@ -1,4 +1,5 @@
 //swithch语句：只能放整数和字符型，不能放区间
+//关键字：switch; case;  defult; break;
 /*语法：
 * switch (变量名)
 * {

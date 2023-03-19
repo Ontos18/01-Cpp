@@ -131,6 +131,7 @@
     <ClCompile Include="01 if语句.cpp" />
     <ClCompile Include="02 三目运算符.cpp" />
     <ClCompile Include="03 switch语句.cpp" />
+    <ClCompile Include="04 while循环.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
