@@ -27,7 +27,7 @@ int main()
 {
 	int a = rand() % 100 + 1; //生成一个0~100的随机数
 	cout << a << endl;
-	int b;
+	int b = 1;
 	while (b == a)
 	{
 		
