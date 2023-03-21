@@ -1,4 +1,5 @@
 //while循环：条件为真执行，条件不成立则结束
+//while(0)结束执行；while(1)无限循环执行
 /*语法：
 * while (循环条件)
 * {
@@ -23,15 +24,30 @@ int main04()
 }
 
 //猜数字
-int main()
+#include<time.h>
+int main041()
 {
+	srand(time(NULL));
 	int a = rand() % 100 + 1; //生成一个0~100的随机数
-	cout << a << endl;
+	cout << "请输入一个数：" << endl;
 	int b = 1;
-	while (b == a)
+	while (1)
 	{
-		
-
+		int cai;
+		cin >> cai;
+		if (cai > a)
+		{
+			cout << "猜测过大" << endl;
+		}
+		else if (cai < a)
+		{
+			cout << "猜测过小" << endl;
+		}
+		else if (cai == a)
+		{
+			cout << "猜对了" << endl;
+			break;
+		}
 	}
 	system("pause");
 	return 0;

@@ -27,5 +27,14 @@
     <ClCompile Include="04 while循环.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="05 do while循环.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="06 for循环.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="07 嵌套循环.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
